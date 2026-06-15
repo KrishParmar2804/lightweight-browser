@@ -9,7 +9,8 @@ This project also integrates a [motion-activated security camera system](https:/
 - Lightweight core with minimal RAM footprint compared to mainstream browsers
 - Fully customizable interface and behavior
 - Integrated live view from the connected security camera system
-- [Add other features: tabs, bookmarks, custom homepage/search engine, history, etc.]
+- Navbar functionality with added access for Camera baked in.
+- (x) to kill camera.
 
 ## Tech Stack
 
@@ -20,7 +21,7 @@ This project also integrates a [motion-activated security camera system](https:/
 
 ```
 custom-browser/
-├── Persona Browser.py
+├── Personal Browser.py
 └── README.md
 ```
 
