@@ -25,7 +25,7 @@ custom-browser/
 └── README.md
 ```
 
-The packaged application is available separately under [Releases](https://github.com/KrishParmar2804/custom-browser/releases).
+The packaged application is available separately under [Releases](https://github.com/KrishParmar2804/lightweight-browser/releases).
 
 
 ## Related Project
