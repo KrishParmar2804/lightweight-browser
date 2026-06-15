@@ -20,8 +20,7 @@ This project also integrates a [motion-activated security camera system](https:/
 
 ```
 custom-browser/
-├── source/
-│   └── [source files, e.g., browser.py]
+├── Persona Browser.py
 └── README.md
 ```
 
